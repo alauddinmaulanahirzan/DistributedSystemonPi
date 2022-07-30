@@ -9,7 +9,8 @@ p2pnetwork = "*"
 pandas = "*"
 psutil = "*"
 pycryptodome = "*"
-rethinkdb = "*"
+pymongo = "*"
+dnspython = "*"
 
 [dev-packages]
 
